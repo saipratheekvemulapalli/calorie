@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
+
+
+/* body{
+  background-color: black;
+  color: white;
+} */
+/* .calboxOne{
+  background-color: black;
+  color: white;
+
+}
+.calboxTxt{
+  background-color: black;
+  color: white;
+} */
